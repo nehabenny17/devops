@@ -4,3 +4,7 @@ a=b+c;
 
 #subtraction
 g=j-e;
+
+#division
+s=r/w;
+
